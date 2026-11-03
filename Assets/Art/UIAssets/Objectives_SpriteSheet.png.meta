@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 9aa4fcd712bc65e469a47e843acd5ce5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boarder_Outline
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 528
+        width: 716
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 68, y: 45, z: 69, w: 60}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c1afc8aaa923b45b20e2345dd23803
+      internalID: 669887736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 878
+        width: 422
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 24, y: 22, z: 25, w: 23}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1985cf744c4bf8a42a59564cf16348ef
+      internalID: -910599004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 752
+        width: 415
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 18, y: 22, z: 21, w: 19}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcacf57530a9d6498d2dfa09f1f32ce
+      internalID: -94765933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 621
+        width: 415
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 18, y: 20, z: 20, w: 20}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc0564186116414d93e4ed292d42723
+      internalID: 1838428230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyBoarder
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 523
+        width: 414
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 18, y: 18, z: 19, w: 17}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4cb0dea65523040bd435b095cfc675
+      internalID: 952676677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star1
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 357
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da01c8928e6cc4081f86b31c083d47
+      internalID: -1927209290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star2
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 381
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fc0a1156771634aa7ba315a443f8c3
+      internalID: -99150915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star3
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 369
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa7cc3607a4bb47b7e7c308c75e52a
+      internalID: -1205765486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal_Rule_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 444
+        width: 638
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 18, y: 0, z: 23, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2947b34a94611ec46885d8957dfc579f
+      internalID: 521600666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal_Rule_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 394
+        width: 646
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 23, y: 0, z: 21, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845b074d38e118c4cacafe0d3bf6b0f0
+      internalID: -94267628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal_Rule_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 328
+        width: 639
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 26, y: 0, z: 25, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb410613ee9f449aa624cee740c64a
+      internalID: 535248158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_Active
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 126
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a83b305fd1b5448d5166c4ca66d0f
+      internalID: -625365500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_Done
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 124
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729c2ec7a55716438ec6305bf53fa9c
+      internalID: -1256233479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_Pending
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fdb4c4d8b2a114eb39427fa776c556
+      internalID: -456269855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives2_Active
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 129
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dba6dfa9d11f94aa0978ae11247e30
+      internalID: 2047247705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives2_Done
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 129
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88772edcf81ec14eb4c79d2763930d6
+      internalID: -1517237692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives2_Pending
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 129
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c99e659792a342baaf8b4cfc19e42
+      internalID: 1598757973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldRing
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 252
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7b2e16eed873842a40469473f02f30
+      internalID: 35961148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_Meter_Active
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 276
+        width: 18
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8bbe1e5928e8d46bd9ce4445316dbf
+      internalID: -1399402884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_Meter_Complete
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 277
+        width: 16
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d52d7449ed76bf4ba9cd963674b83f0
+      internalID: 1527351744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_Meter_Pending
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 277
+        width: 17
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9748fd9aa723ea4aba8169c82ea04ca
+      internalID: 556329979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradient_Glow
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 271
+        width: 220
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6977334c72836a84faf9efd72663ba38
+      internalID: 1485540000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_Active
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 174
+        width: 255
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b1d0b78170124f9bdf6d518c212b3
+      internalID: -869848963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objectives_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 188
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968293c34a51073438d6f480804c06bf
+      internalID: 332279214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_Complete
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 118
+        width: 270
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b8a56fbf36dfb49adfd8639d9db5df
+      internalID: -161856609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_Pending
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 49
+        width: 269
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f913cbba2e3f444789a95e63292c8aa
+      internalID: -2069249980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dc7fcae9a54477748b16e3a654afef9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arrow_Active: -869848963
+      Arrow_Complete: -161856609
+      Arrow_Pending: -2069249980
+      Boarder_Outline: 669887736
+      GoldRing: 35961148
+      Gradient_Glow: 1485540000
+      GreyBoarder: 952676677
+      Horizontal_Rule_1: 521600666
+      Horizontal_Rule_2: -94267628
+      Horizontal_Rule_3: 535248158
+      Objectives2_Active: 2047247705
+      Objectives2_Done: -1517237692
+      Objectives2_Pending: 1598757973
+      Objectives_Active: -625365500
+      Objectives_Done: -1256233479
+      Objectives_Meter_Active: -1399402884
+      Objectives_Meter_Complete: 1527351744
+      Objectives_Meter_Pending: 556329979
+      Objectives_Pending: -456269855
+      Objectives_SpriteSheet_1: -910599004
+      Objectives_SpriteSheet_2: -94765933
+      Objectives_SpriteSheet_23: 332279214
+      Objectives_SpriteSheet_3: 1838428230
+      Star1: -1927209290
+      Star2: -99150915
+      Star3: -1205765486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
